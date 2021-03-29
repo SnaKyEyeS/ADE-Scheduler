@@ -117,4 +117,4 @@ webencodings==0.5.1
 Werkzeug==1.0.1
 WTForms==2.3.3
 xarray==0.16.2
-strong~=0.2.1
+strong~=0.2.2
