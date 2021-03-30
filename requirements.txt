@@ -76,7 +76,7 @@ progress==1.5
 psycopg2-binary==2.8.6
 py==1.9.0
 pycparser==2.20
-Pygments==2.7.3
+Pygments==2.7.4
 pyparsing==2.4.7
 pytest==6.2.1
 pytest-flask==1.1.0
