@@ -82,7 +82,7 @@ pytest==6.2.1
 pytest-flask==1.1.0
 python-babel==0.0.0.dev0
 python-dateutil==2.8.1
-python-dotenv==0.15.0
+python-dotenv==0.17.1
 python-editor==1.0.4
 pytoml==0.1.21
 pytz==2020.5
