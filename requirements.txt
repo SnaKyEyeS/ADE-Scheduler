@@ -78,7 +78,7 @@ py==1.9.0
 pycparser==2.20
 Pygments==2.7.3
 pyparsing==2.4.7
-pytest==6.2.1
+pytest==6.2.4
 pytest-flask==1.1.0
 python-babel==0.0.0.dev0
 python-dateutil==2.8.1
