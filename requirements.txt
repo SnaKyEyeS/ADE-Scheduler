@@ -111,7 +111,7 @@ typed-ast==1.4.2
 typing-extensions==3.7.4.3
 ujson==4.0.1
 urllib3==1.25.11
-virtualenv==20.2.2
+virtualenv==20.4.6
 webassets==2.0
 webencodings==0.5.1
 Werkzeug==1.0.1
